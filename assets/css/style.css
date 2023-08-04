@@ -1,0 +1,25 @@
+/* Global Styling  */
+:root {
+    --primaryColor: "#fff";
+    --secondaryColor: #fff;
+    --primaryText: "#fff";
+    --secondaryText: "#fff";
+    --primaryBg: "#fff";
+    --secondaryBg: "#fff";
+    --light: "#fff";
+    --dark: "#fff";
+}
+
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    font-family: "poppins", sans-serif;
+}
+
+a:hover {
+    text-decoration: none;
+}
