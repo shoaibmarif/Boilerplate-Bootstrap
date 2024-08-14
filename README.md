@@ -10,28 +10,14 @@ This boilerplate project provides a starting template for web development, inclu
 - **`index.html`**: The main HTML file linking to CSS and JavaScript files, and including external libraries.
 - **`css/styles.css`**: Custom CSS styles for the project.
 - **`js/scripts.js`**: Custom JavaScript code for the project.
-
-## Included Libraries
-
-### Font Awesome
-
-Font Awesome for icons. The CDN link is included in the `index.html`.
-
-### Bootstrap
-
-Bootstrap for responsive design and components. The CDN link is included in the `index.html`.
-
-### Slick Slider
-
-Slick Slider for carousels and sliders. The CDN link is included in the `index.html`.
-
-### Popper.js
-
-Popper.js for tooltips and poppers. The CDN link is included in the `index.html`.
-
-### jQuery
-
-jQuery for DOM manipulation and AJAX requests. The CDN link is included in the `index.html`.
+- **`css/font-awesome.min.css`**: Font Awesome CSS file for icons.
+- **`css/bootstrap.min.css`**: Bootstrap CSS file for responsive design and components.
+- **`css/slick.min.css`**: Slick Slider CSS file for carousels and sliders.
+- **`css/slick-theme.min.css`**: Slick Slider theme CSS file.
+- **`js/jquery.min.js`**: jQuery JavaScript file for DOM manipulation and AJAX requests.
+- **`js/popper.min.js`**: Popper.js JavaScript file for tooltips and poppers.
+- **`js/bootstrap.min.js`**: Bootstrap JavaScript file for responsive components.
+- **`js/slick.min.js`**: Slick Slider JavaScript file for carousels and sliders.
 
 ## Getting Started
 
